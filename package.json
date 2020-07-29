@@ -1,0 +1,29 @@
+{
+  "name": "find_the_bottle",
+  "version": "1.0.0",
+  "description": "In that game all of u need to do - it's simply find the buttle to win!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "find",
+    "bottle",
+    "find",
+    "the",
+    "bottle",
+    "game",
+    "javascript",
+    "html5",
+    "css3",
+    "vanilla",
+    "js",
+    "Eugene",
+    "Vinourov"
+  ],
+  "author": "Eugene Vinokurov",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
